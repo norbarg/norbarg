@@ -58,23 +58,8 @@ You can explore them on my **[GitHub profile](https://github.com/norbarg)**.
 
 ---
 
-## GitHub Stats
-
-<p>
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=norbarg&show_icons=true&hide_border=true&theme=github_dark"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=norbarg&layout=compact&hide_border=true&theme=github_dark"
-  />
-</p>
-
----
-
 ## Let's Connect
 
 I'm open to **Full-Stack JavaScript, React, Next.js and Node.js opportunities**.
 
-[GitHub](https://github.com/norbarg) · [LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL)
+[GitHub](https://github.com/norbarg) · [LinkedIn](https://www.linkedin.com/in/mykola-svishchev-385283390/) · [Email](mailto:Lut4ui.v.mire@gmail.com)
