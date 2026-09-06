@@ -1,23 +1,10 @@
-# Mykola
+# Mykola Svishchev
 
-Full-Stack JavaScript Developer focused on building modern web applications, interactive interfaces and complete digital products.
+Full-Stack JavaScript Developer focused on building modern web applications and complete digital products.
 
-I work with **React, Next.js, TypeScript, Node.js and NestJS**, developing everything from responsive frontend interfaces to backend APIs and database-driven applications.
+I work with **React, Next.js, TypeScript, Node.js and NestJS**, developing everything from responsive interfaces to backend APIs and database-driven applications.
 
 **Core stack:** React · Next.js · TypeScript · Node.js · NestJS · PostgreSQL · Prisma
-
----
-
-## About Me
-
-- Full-Stack JavaScript Developer
-- Building modern interfaces with React and Next.js
-- Developing backend services with Node.js and NestJS
-- Working with REST APIs, PostgreSQL and Prisma
-- Experience with commercial web projects
-- Building interactive and real-time applications
-- Figma to responsive frontend implementation
-- Interested in AI-powered applications and modern web technologies
 
 ---
 
@@ -39,7 +26,7 @@ I work with **React, Next.js, TypeScript, Node.js and NestJS**, developing every
 
 **Node.js · NestJS · Express · PostgreSQL · Prisma · REST API**
 
-### Tools & Infrastructure
+### Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma&theme=dark" />
@@ -49,104 +36,45 @@ I work with **React, Next.js, TypeScript, Node.js and NestJS**, developing every
 
 ---
 
-# Commercial Experience
+## Commercial Projects
 
-I have experience developing and delivering real-world commercial websites and web applications.
+**[Korona](https://korona.cv.ua/)** — digital menu & delivery platform
 
-### Korona
+**[Wattsonic](https://wattsonic.net.ua/)** — energy storage company website
 
-Digital menu and delivery platform for a cafe.
+**[Merenga](https://merenga.cv.ua/)** — digital menu & delivery platform
 
-[Visit website](https://korona.cv.ua/)
+**[SPD](https://spd.lemurs.com.ua/)** — crafts shop website
 
----
-
-### Wattsonic
-
-Commercial website for an energy storage technology company.
-
-[Visit website](https://wattsonic.net.ua/)
+**[Mavis Watches](https://maviswatches.com/)** — watch brand website
 
 ---
 
-### Merenga
+## Pet Projects
 
-Digital menu and delivery platform for a cafe.
+I also build personal and test projects focused on full-stack development, interactive interfaces and application architecture.
 
-[Visit website](https://merenga.cv.ua/)
-
----
-
-### SPD
-
-Commercial website for a crafts shop.
-
-[Visit website](https://spd.lemurs.com.ua/)
+You can explore them on my **[GitHub profile](https://github.com/norbarg)**.
 
 ---
 
-### Mavis Watches
+## GitHub Stats
 
-Commercial website for a watch brand.
-
-[Visit website](https://maviswatches.com/)
-
----
-
-# Featured Pet Projects
-
-## MODDEN — Graphic Editor
-
-A custom browser-based graphic editor focused on interactive canvas functionality and object manipulation.
-
-Worked with complex canvas interactions, editable graphical objects and editor-like UI behavior.
-
-**Tech:** JavaScript · Frontend · Canvas
-
-[View repository](https://github.com/norbarg/MODDEN)
+<p>
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=norbarg&show_icons=true&hide_border=true&theme=github_dark"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=norbarg&layout=compact&hide_border=true&theme=github_dark"
+  />
+</p>
 
 ---
 
-## Tixy — Event Platform
+## Let's Connect
 
-A web platform focused on events and user interaction.
+I'm open to **Full-Stack JavaScript, React, Next.js and Node.js opportunities**.
 
-Built as a full-stack project with modern JavaScript technologies and structured application architecture.
-
-[View repository](https://github.com/norbarg/Tixy)
-
----
-
-## Timely — Collaborative Calendar
-
-A collaborative calendar application designed for planning, organizing and working with shared events.
-
-The project focuses on application logic, user interaction and collaborative functionality.
-
-[View repository](https://github.com/norbarg/Timely)
-
----
-
-## Marvel Card Game
-
-A card game project built as an interactive web application.
-
-The project focuses on game logic, interface development and dynamic user interaction.
-
-[View repository](https://github.com/norbarg/Marvel_card_game)
-
----
-
-## What I Work With
-
-```txt
-Frontend Development
-Backend Development
-REST API Development
-Database Design
-Responsive Web Development
-Interactive Interfaces
-Telegram Integrations
-Real-Time Applications
-Docker
-Web Scraping
+[GitHub](https://github.com/norbarg) · [LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL)
